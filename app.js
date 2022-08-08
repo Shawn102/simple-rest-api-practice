@@ -114,5 +114,5 @@ app
 const port = process.env.PORT || 2000;
 
 app.listen(port, () => {
-  console.log(`Your app start on ${port}`);
+  console.log(`Your app started on ${port}`);
 });
